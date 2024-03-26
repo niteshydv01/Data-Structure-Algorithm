@@ -4,14 +4,30 @@ using namespace std;
 
 class Solution {
 public:
+    void solve(vector<vector<int>>& result, vector<int>& subset, int i, vector<int>& nums) {
+        if (i == nums.size()) {
+            result.push_back(subset);
+            return;
+        }
+        
+        // Include nums[i] in the current subset and recurse
+        subset.push_back(nums[i]);
+        solve(result, subset, i + 1, nums);
+        
+        // Exclude nums[i] from the current subset and recurse
+        subset.pop_back();
+        solve(result, subset, i + 1, nums);
+    }
+    
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> result;
         vector<int> subset;
-        generateSubsets(nums, 0, subset, result);
+        solve(result, subset, 0, nums);
         return result;
     }
+};
 
-private:
+/*private:
     void generateSubsets(const vector<int>& nums, int index, vector<int>& subset, vector<vector<int>>& result) {
         // Add the current subset to the result
         result.push_back(subset);
@@ -27,5 +43,4 @@ private:
             // Exclude nums[i] from the current subset (backtrack)
             subset.pop_back();
         }
-    }
-};
+    }*/
