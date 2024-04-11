@@ -12,36 +12,54 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if (!root) return nullptr; // Base case: empty tree
+        TreeNode* curr = root;
+        TreeNode* parent = nullptr;
         
         // Search for the node with the given key
-        if (root->val > key) {
-            root->left = deleteNode(root->left, key); // Recursively delete in left subtree
-        } else if (root->val < key) {
-            root->right = deleteNode(root->right, key); // Recursively delete in right subtree
-        } else { // Found the node with the key
-            if (!root->left) { // Case 1: No left child
-                TreeNode* temp = root->right;
-                delete root;
-                return temp; // Update root pointer
-            } else if (!root->right) { // Case 2: No right child
-                TreeNode* temp = root->left;
-                delete root;
-                return temp; // Update root pointer
-            } else { // Case 3: Node has both left and right children
-                // Find the inorder successor (minimum value in the right subtree)
-                TreeNode* temp = findMin(root->right);
-                // Copy the inorder successor's content to this node
-                root->val = temp->val;
-                // Delete the inorder successor
-                root->right = deleteNode(root->right, temp->val);
+        while (curr != nullptr && curr->val != key) {
+            parent = curr;
+            if (key < curr->val) {
+                curr = curr->left;
+            } else {
+                curr = curr->right;
             }
         }
-        return root; // Return the updated root pointer
+        
+        // If the key is not found, return the original root
+        if (curr == nullptr) return root;
+        
+        // Case 1: Node to delete has no children or one child
+        if (curr->left == nullptr) {
+            if (parent == nullptr) {
+                root = curr->right;
+            } else if (parent->left == curr) {
+                parent->left = curr->right;
+            } else {
+                parent->right = curr->right;
+            }
+            delete curr;
+        } else if (curr->right == nullptr) {
+            if (parent == nullptr) {
+                root = curr->left;
+            } else if (parent->left == curr) {
+                parent->left = curr->left;
+            } else {
+                parent->right = curr->left;
+            }
+            delete curr;
+        }
+        // Case 2: Node to delete has two children
+        else {
+            TreeNode* successor = findSuccessor(curr->right);
+            curr->val = successor->val;
+            curr->right = deleteNode(curr->right, successor->val);
+        }
+        
+        return root;
     }
     
-    TreeNode* findMin(TreeNode* node) {
-        while (node->left) {
+    TreeNode* findSuccessor(TreeNode* node) {
+        while (node->left != nullptr) {
             node = node->left;
         }
         return node;
