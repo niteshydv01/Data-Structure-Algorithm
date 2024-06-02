@@ -15,10 +15,10 @@
     </p>
     <ul>
         <li>
-            <a href="https://www.codingninjas.com/codestudio">CodeStudio</a>
+            <a href="https://www.naukri.com/code360/profile/ef8fa0ab-9167-4564-b3f5-51d3dbfd8b54">CodeStudio</a>
         </li>
         <li>
-            <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a>
+            <a href="https://www.geeksforgeeks.org/user/niyada88na/">GeeksforGeeks</a>
         </li>
     </ul>
 </body>
