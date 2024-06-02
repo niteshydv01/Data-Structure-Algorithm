@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DSA Problems Solved During B.Tech at Thapar University</title>
+    
 </head>
 <body>
     <h1>DSA Problems Solved During B.Tech at Thapar University</h1>
