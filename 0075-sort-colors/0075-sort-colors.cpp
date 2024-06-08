@@ -14,13 +14,19 @@ public:
                 two.push_back(value);
             }
         }
-        combined.insert(combined.end(), zero.begin(), zero.end());
+        for(int value:zero){
+            combined.push_back(value);
+        }
+        for(int value:one){
+            combined.push_back(value);
+        }
+        for(int value:two){
+            combined.push_back(value);
+        }
 
-        // Insert elements from vec2
-        combined.insert(combined.end(), one.begin(), one.end());
 
-        // Insert elements from vec3
-        combined.insert(combined.end(), two.begin(), two.end());
+
+       
         nums=combined;
         
     }
