@@ -20,6 +20,9 @@
         <li>
             <a href="https://www.geeksforgeeks.org/user/niyada88na/">GeeksforGeeks</a>
         </li>
+         <li>
+            <a href="https://takeuforward.org/profile/niteshyadav">Take U Forward TUF</a>
+        </li>
     </ul>
 </body>
 </html>
