@@ -34,4 +34,5 @@
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1908-recyclable-and-low-fat-products](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
