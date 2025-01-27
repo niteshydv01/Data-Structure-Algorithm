@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
