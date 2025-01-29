@@ -47,6 +47,7 @@
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
