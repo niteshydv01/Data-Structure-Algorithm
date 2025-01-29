@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
