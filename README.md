@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
