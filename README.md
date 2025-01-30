@@ -82,6 +82,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,10 +96,12 @@
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,4 +187,5 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
