@@ -60,6 +60,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
@@ -79,15 +80,18 @@
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -121,6 +125,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -170,4 +175,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
