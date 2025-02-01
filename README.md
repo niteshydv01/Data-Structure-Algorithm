@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
