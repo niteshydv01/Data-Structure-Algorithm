@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -201,4 +203,8 @@
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
