@@ -94,6 +94,7 @@
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -129,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
