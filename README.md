@@ -92,6 +92,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
