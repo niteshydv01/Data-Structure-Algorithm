@@ -52,6 +52,7 @@
 | [0198-house-robber](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -92,6 +93,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
