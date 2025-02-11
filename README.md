@@ -48,6 +48,7 @@
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -100,6 +101,7 @@
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
