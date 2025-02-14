@@ -58,6 +58,7 @@
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
@@ -113,6 +114,7 @@
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
@@ -173,6 +175,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -204,6 +207,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -232,6 +236,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
