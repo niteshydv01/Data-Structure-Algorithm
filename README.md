@@ -206,6 +206,7 @@
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -300,4 +301,8 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
