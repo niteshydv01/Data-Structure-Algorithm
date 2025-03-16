@@ -70,6 +70,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -158,6 +159,7 @@
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -202,6 +204,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
@@ -223,6 +226,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,6 +267,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
