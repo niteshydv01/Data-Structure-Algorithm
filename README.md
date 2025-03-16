@@ -200,6 +200,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -233,6 +234,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
@@ -310,6 +312,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 ## String Matching
 |  |
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
