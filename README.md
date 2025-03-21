@@ -327,14 +327,17 @@
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
