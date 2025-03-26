@@ -223,6 +223,7 @@
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
@@ -336,6 +337,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -374,8 +378,13 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
