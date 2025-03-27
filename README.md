@@ -303,6 +303,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 ## Shortest Path
 |  |
@@ -362,6 +363,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
