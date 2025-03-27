@@ -169,6 +169,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -234,6 +235,7 @@
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -363,6 +365,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
