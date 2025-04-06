@@ -184,6 +184,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -407,4 +408,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
