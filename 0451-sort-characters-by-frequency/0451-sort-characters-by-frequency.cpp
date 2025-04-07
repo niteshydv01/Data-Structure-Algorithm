@@ -19,7 +19,9 @@ public:
         // Step 4: Build the result string
         string result = "";
         for (auto& p : vec) {
-            result.append(p.second, p.first); // repeat character by its frequency
+            for(int i=0;i<p.second;i++){
+                result+=p.first;
+            }
         }
 
         return result;
