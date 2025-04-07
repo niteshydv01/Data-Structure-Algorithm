@@ -195,6 +195,7 @@
 | [0812-rotate-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -409,6 +410,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
 |  |
 | ------- |
