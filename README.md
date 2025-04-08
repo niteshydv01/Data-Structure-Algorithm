@@ -65,6 +65,7 @@
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -127,6 +128,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -215,6 +217,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
