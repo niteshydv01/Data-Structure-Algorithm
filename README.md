@@ -44,6 +44,7 @@
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0055-jump-game) |
@@ -366,6 +367,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
