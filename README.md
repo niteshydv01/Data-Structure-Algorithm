@@ -53,6 +53,7 @@
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
@@ -110,6 +111,7 @@
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -152,6 +154,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -197,6 +200,7 @@
 | [0014-longest-common-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
@@ -369,6 +373,7 @@
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
