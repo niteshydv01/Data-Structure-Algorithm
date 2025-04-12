@@ -83,6 +83,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -283,6 +284,7 @@
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
