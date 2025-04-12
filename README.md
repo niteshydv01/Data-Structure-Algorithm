@@ -432,6 +432,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Stack
@@ -439,6 +440,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
@@ -457,4 +459,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
