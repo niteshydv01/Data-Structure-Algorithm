@@ -158,6 +158,7 @@
 | ------- |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -387,6 +388,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
@@ -447,6 +450,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
