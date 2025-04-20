@@ -82,6 +82,7 @@
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -207,6 +208,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
@@ -303,6 +305,7 @@
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
@@ -338,6 +341,7 @@
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
+| [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
