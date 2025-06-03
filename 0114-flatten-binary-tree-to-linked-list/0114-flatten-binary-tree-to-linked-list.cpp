@@ -11,28 +11,27 @@
  */
 class Solution {
 public:
-    TreeNode* prev = nullptr;
-
-    void preorder(TreeNode* root) {
-        if (!root) return;
-
-        if (prev) {
-            prev->right = root;
-            prev->left = nullptr;
+    stack<TreeNode*> s;  
+    void DFS(TreeNode *root){
+        if(root==nullptr){
+            return ;
         }
-
-        prev = root;
-
-        // Save original left and right because they might be changed
-        TreeNode* left = root->left;
-        TreeNode* right = root->right;
-
-        preorder(left);
-        preorder(right);
+        s.push(root);
+        DFS(root->left);
+        DFS(root->right);
     }
-
     void flatten(TreeNode* root) {
-        prev = nullptr;
-        preorder(root);
+         DFS(root);
+         while(!s.empty()){
+            TreeNode *tem=s.top();
+            s.pop();
+            if(s.empty()){
+                tem->left=nullptr;
+            }
+            else{
+                s.top()->right=tem;
+                tem->left=nullptr;
+            }
+         }
     }
 };
