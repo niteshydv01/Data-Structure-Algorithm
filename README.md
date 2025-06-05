@@ -55,6 +55,7 @@
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0120-triangle) |
@@ -285,6 +286,7 @@
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
@@ -316,6 +318,7 @@
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
