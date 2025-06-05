@@ -70,6 +70,7 @@
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
@@ -253,6 +254,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -291,6 +293,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -369,6 +372,7 @@
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
