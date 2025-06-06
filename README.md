@@ -78,6 +78,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -257,6 +258,7 @@
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -336,6 +338,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -397,6 +400,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -490,6 +494,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -530,4 +535,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
