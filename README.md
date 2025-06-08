@@ -290,6 +290,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
@@ -475,6 +476,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
