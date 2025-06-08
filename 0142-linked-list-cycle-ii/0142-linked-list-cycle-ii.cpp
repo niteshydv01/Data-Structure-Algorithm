@@ -30,6 +30,5 @@ public:
         }
         
         return nullptr;  // No cycle
-        
     }
 };
