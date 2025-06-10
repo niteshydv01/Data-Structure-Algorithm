@@ -42,6 +42,7 @@
 | [0011-container-with-most-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0055-jump-game) |
@@ -293,6 +295,7 @@
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -555,4 +559,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
