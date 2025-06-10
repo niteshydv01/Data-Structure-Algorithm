@@ -103,6 +103,7 @@
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+| [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
+| [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
