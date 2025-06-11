@@ -44,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
@@ -435,6 +436,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
