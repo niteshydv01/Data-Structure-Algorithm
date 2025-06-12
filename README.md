@@ -372,6 +372,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
