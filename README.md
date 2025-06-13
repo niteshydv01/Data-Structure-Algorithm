@@ -43,6 +43,7 @@
 | [0015-3sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
@@ -128,6 +129,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -438,6 +441,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0046-permutations) |
