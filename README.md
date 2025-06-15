@@ -130,6 +130,7 @@
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
@@ -207,6 +208,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -216,6 +218,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -303,6 +306,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
