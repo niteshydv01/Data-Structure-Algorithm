@@ -134,6 +134,7 @@
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -214,6 +215,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
@@ -224,6 +226,7 @@
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -312,6 +315,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
