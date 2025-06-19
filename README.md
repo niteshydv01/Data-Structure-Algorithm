@@ -91,6 +91,7 @@
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
@@ -184,6 +185,7 @@
 | [0213-house-robber-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
