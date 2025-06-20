@@ -113,6 +113,7 @@
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1121-partition-array-for-maximum-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
@@ -199,6 +200,7 @@
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1121-partition-array-for-maximum-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
