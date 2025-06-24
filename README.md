@@ -66,6 +66,7 @@
 | [0056-merge-intervals](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
@@ -157,6 +158,7 @@
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
@@ -173,6 +175,7 @@
 | [0055-jump-game](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0118-pascals-triangle) |
