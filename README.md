@@ -116,6 +116,7 @@
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -150,6 +151,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
@@ -166,6 +168,7 @@
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -244,6 +247,7 @@
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -351,6 +355,7 @@
 | [0547-number-of-provinces](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
