@@ -1,34 +1,33 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = findBound(nums, target, true);
-        int last = findBound(nums, target, false);
-        return {first, last};
-    }
+        int n = nums.size();
+        int s = 0, e = n - 1;
+        int mid;
 
-private:
-    int findBound(vector<int>& nums, int target, bool isFirst) {
-        int left = 0, right = nums.size() - 1;
-        int ans = -1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        while (s <= e) {
+            mid = s + (e - s) / 2;
 
             if (nums[mid] == target) {
-                ans = mid;
-                if (isFirst)
-                    right = mid - 1; // keep searching left
-                else
-                    left = mid + 1;  // keep searching right
+                int left = mid, right = mid;
+
+                // Expand left
+                while (left > 0 && nums[left - 1] == target) left--;
+
+                // Expand right
+                while (right < n - 1 && nums[right + 1] == target) right++;
+
+                return {left, right};
             }
-            else if (nums[mid] < target) {
-                left = mid + 1;
-            }
-            else {
-                right = mid - 1;
+
+            if (nums[mid] < target) {
+                s = mid + 1;
+            } else {
+                e = mid - 1;
             }
         }
 
-        return ans;
+        return {-1, -1}; // target not found
     }
 };
+
