@@ -158,6 +158,7 @@
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -254,6 +255,7 @@
 | [0820-find-eventual-safe-states](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -268,6 +270,7 @@
 | [0820-find-eventual-safe-states](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -367,6 +370,7 @@
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
