@@ -328,6 +328,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1197-parsing-a-boolean-expression) |
@@ -624,6 +625,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0812-rotate-string) |
 ## Quickselect
 |  |
