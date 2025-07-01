@@ -323,6 +323,7 @@
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
@@ -628,6 +629,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0812-rotate-string) |
 ## Quickselect
@@ -696,4 +698,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
