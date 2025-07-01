@@ -336,6 +336,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1508-longest-happy-prefix) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -632,6 +633,7 @@
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1508-longest-happy-prefix) |
 ## Quickselect
 |  |
 | ------- |
@@ -702,8 +704,10 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
