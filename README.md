@@ -479,6 +479,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
@@ -506,6 +507,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
