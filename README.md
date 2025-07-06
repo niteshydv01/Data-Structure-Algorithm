@@ -119,6 +119,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1121-partition-array-for-maximum-sum) |
@@ -590,6 +591,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -621,6 +624,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -681,6 +685,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
@@ -714,6 +719,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Rolling Hash
 |  |
 | ------- |
