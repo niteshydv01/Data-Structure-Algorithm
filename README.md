@@ -132,6 +132,7 @@
 | [1646-kth-missing-positive-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
@@ -229,6 +230,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2808-painting-the-walls](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2808-painting-the-walls) |
@@ -384,6 +386,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union Find
 |  |
@@ -474,6 +477,7 @@
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
