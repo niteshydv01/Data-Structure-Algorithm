@@ -503,6 +503,7 @@
 | [0060-permutation-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -577,6 +579,7 @@
 | [0051-n-queens](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0216-combination-sum-iii) |
