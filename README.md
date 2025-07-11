@@ -619,6 +619,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -663,6 +664,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
 |  |
 | ------- |
