@@ -256,6 +256,7 @@
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -342,6 +343,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
@@ -585,6 +587,7 @@
 | [0090-subsets-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
 ## Tree
 |  |
@@ -607,6 +610,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -650,6 +654,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
