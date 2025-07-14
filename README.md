@@ -441,6 +441,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -682,6 +683,7 @@
 | [0328-odd-even-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
