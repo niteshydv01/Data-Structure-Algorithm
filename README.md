@@ -45,6 +45,7 @@
 | [0197-rising-temperature](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0584-find-customer-referee) |
+| [1179-game-play-analysis-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
