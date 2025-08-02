@@ -21,7 +21,7 @@ public:
         TreeNode* root = new TreeNode(rootVal);
 
         
-        if (inStart == inEnd) return root;
+        //if (inStart == inEnd) return root;
 
        
         int inIndex = inMap[rootVal];
