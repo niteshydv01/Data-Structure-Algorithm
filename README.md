@@ -145,6 +145,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1705-count-unhappy-friends](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1705-count-unhappy-friends) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -519,6 +520,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
+| [1705-count-unhappy-friends](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1705-count-unhappy-friends) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Math
