@@ -48,6 +48,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1179-game-play-analysis-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1415-students-and-examinations) |
