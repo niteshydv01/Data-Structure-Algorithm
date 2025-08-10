@@ -124,6 +124,7 @@
 | [0485-max-consecutive-ones](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
@@ -336,6 +337,7 @@
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -764,6 +766,7 @@
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -800,6 +803,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Rolling Hash
