@@ -1,39 +1,40 @@
+#include <vector>
+#include <stack>
+#include <numeric>
+#include <algorithm>
+
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int> s;
+    std::vector<int> asteroidCollision(std::vector<int>& asteroids) {
+        std::stack<int> s;
 
         for (int asteroid : asteroids) {
-            bool current_survived = true;
-
-            while (!s.empty() && s.top() > 0 && asteroid < 0) {
-                if (s.top() < abs(asteroid)) {
-                    s.pop();
-                    continue;
-                } 
-                else if (s.top() > abs(asteroid)) {
-                    current_survived = false;
-                    break;
-                }
-                else {
-                    s.pop();
-                    current_survived = false;
-                    break;
-                }
-            }
-
-            if (current_survived) {
+            if (asteroid > 0 || s.empty() || s.top() < 0) {
                 s.push(asteroid);
+            } else {
+                int current_abs_val = std::abs(asteroid);
+                
+                while (!s.empty() && s.top() > 0 && s.top() < current_abs_val) {
+                    s.pop();
+                }
+
+                if (!s.empty() && s.top() > 0) {
+                    if (s.top() == current_abs_val) {
+                        s.pop();
+                    }
+                } else {
+                    s.push(asteroid);
+                }
             }
         }
 
-        vector<int> ans;
+        std::vector<int> result;
         while (!s.empty()) {
-            ans.push_back(s.top());
+            result.push_back(s.top());
             s.pop();
         }
+        std::reverse(result.begin(), result.end());
         
-        std::reverse(ans.begin(), ans.end());
-        return ans;
+        return result;
     }
 };
