@@ -132,6 +132,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0724-find-pivot-index](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
@@ -556,6 +557,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
