@@ -584,6 +584,7 @@
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
