@@ -127,6 +127,7 @@
 | [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -379,6 +380,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0686-repeated-string-match) |
@@ -514,6 +516,7 @@
 | [0435-non-overlapping-intervals](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
@@ -552,6 +555,7 @@
 | [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
+| [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
