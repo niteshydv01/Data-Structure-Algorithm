@@ -137,6 +137,7 @@
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -348,6 +349,7 @@
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -736,6 +738,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
+| [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -766,6 +769,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -833,6 +837,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
+| [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1508-longest-happy-prefix) |
 ## Iterator
 |  |
