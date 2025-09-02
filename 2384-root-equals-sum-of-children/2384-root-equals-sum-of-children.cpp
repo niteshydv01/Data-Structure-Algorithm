@@ -19,8 +19,7 @@ public:
         bool lh = checkTree(root->left);
         bool rh = checkTree(root->right);
 
-        // ✅ Fix 1: use == instead of = for comparison
-        // ✅ Fix 2: check if both children exist before accessing their values
+        
         if (root->left && root->right &&
             root->val == root->left->val + root->right->val)
             return  lh && rh;
