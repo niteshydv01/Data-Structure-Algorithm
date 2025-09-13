@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Keep your issubstring structure, but correct the logic
+ 
     bool issubstring(string a, string b) {
         int n = a.size(), m = b.size();
         for (int i = 0; i <= n - m; i++) {
@@ -16,7 +16,7 @@ public:
     int repeatedStringMatch(string a, string b) {
         if (b == "") return 0;
 
-        string repeated = a;  // start with 1 repetition
+        string repeated = a;  
         int count = 1;
 
         while (true) {
@@ -26,7 +26,7 @@ public:
             repeated += a;
             count++;
 
-            // Optional safeguard to avoid infinite loop
+          
             if (repeated.size() > b.size() + a.size() * 2)
                 return -1;
         }
