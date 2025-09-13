@@ -331,6 +331,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -366,6 +367,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0022-generate-parentheses) |
@@ -553,6 +555,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0060-permutation-sequence) |
