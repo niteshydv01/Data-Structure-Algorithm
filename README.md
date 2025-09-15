@@ -113,6 +113,7 @@
 | [0216-combination-sum-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -484,6 +485,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
