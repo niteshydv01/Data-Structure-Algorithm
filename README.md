@@ -345,6 +345,7 @@
 | [0141-linked-list-cycle](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
@@ -484,6 +485,7 @@
 | [0148-sort-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -568,6 +570,7 @@
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
