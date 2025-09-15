@@ -389,6 +389,7 @@
 | [0214-shortest-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
@@ -615,6 +616,7 @@
 | [0206-reverse-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1197-parsing-a-boolean-expression) |
 ## Shortest Path
 |  |
@@ -802,6 +804,7 @@
 | [0225-implement-stack-using-queues](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
