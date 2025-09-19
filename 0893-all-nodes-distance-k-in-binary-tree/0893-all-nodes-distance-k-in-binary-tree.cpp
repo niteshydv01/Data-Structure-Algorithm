@@ -42,8 +42,8 @@ public:
         
         while (!queue.empty()) {
             int size = queue.size();
-            if (currLevel++ == K) break;
-            
+            if (currLevel == K) break;
+            currLevel++;
             for (int i = 0; i < size; i++) {
                 TreeNode* current = queue.front();
                 queue.pop();
