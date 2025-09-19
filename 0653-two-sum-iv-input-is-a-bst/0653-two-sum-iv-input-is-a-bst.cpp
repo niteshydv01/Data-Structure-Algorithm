@@ -14,7 +14,7 @@ public:
     bool dfs(TreeNode* root, int k, unordered_set<int>& seen) {
         if (!root) return false;
         
-        if (seen.count(k - root->val)) return true;
+        if (seen.find(k - root->val)!=seen.end()) return true;
 
         seen.insert(root->val);
         
