@@ -19,15 +19,16 @@ public:
         bool lh = checkTree(root->left);
         bool rh = checkTree(root->right);
 
-        
+           
+        if (!root->left && !root->right)
+            return true;
+            
         if (root->left && root->right &&
             root->val == root->left->val + root->right->val)
             return  lh && rh;
 
        
-           
-        if (!root->left && !root->right)
-            return true;
+        
 
         return false;
     }
