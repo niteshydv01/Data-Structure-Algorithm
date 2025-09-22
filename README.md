@@ -136,6 +136,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
@@ -412,6 +413,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -433,6 +435,7 @@
 | [0410-split-array-largest-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -463,6 +466,7 @@
 | [0355-design-twitter](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -493,6 +497,7 @@
 | [0455-assign-cookies](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -535,6 +540,7 @@
 | [0539-minimum-time-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
