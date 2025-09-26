@@ -168,6 +168,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 | [2808-painting-the-walls](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2808-painting-the-walls) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2808-painting-the-walls](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2808-painting-the-walls) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Depth-First Search
 |  |
 | ------- |
