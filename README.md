@@ -169,6 +169,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
+| [2664-maximize-greatness-of-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2664-maximize-greatness-of-an-array) |
 | [2808-painting-the-walls](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2808-painting-the-walls) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
@@ -506,6 +507,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2664-maximize-greatness-of-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2664-maximize-greatness-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -526,6 +528,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [2664-maximize-greatness-of-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2664-maximize-greatness-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -550,6 +553,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
+| [2664-maximize-greatness-of-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2664-maximize-greatness-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
