@@ -299,6 +299,7 @@
 | [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
@@ -361,6 +362,7 @@
 | [0496-next-greater-element-i](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0817-design-hashmap) |
@@ -699,6 +701,7 @@
 | [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
@@ -746,6 +749,7 @@
 | [0257-binary-tree-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
