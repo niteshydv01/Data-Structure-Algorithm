@@ -139,6 +139,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
@@ -443,6 +444,7 @@
 | [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
