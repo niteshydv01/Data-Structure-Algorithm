@@ -1,34 +1,73 @@
+// class Solution {
+// public:
+//     void solve(int i,int n,int tar,vector<int>& candidates,vector<int>&curr,vector<vector<int>>&ans){
+//         if(tar==0){
+//             ans.push_back(curr);
+//             return;
+//         }
+//         if(i>=n || tar <0){
+//             return 0;
+//         }
+//         curr.push_back(candiddates[i]);
+//         solve(i+1,n,tar-candiddates[i],candidates,curr,ans);
+
+//         curr.pop_back();
+
+//         solve(i,n,tar-candiddates[i],candidates,curr,ans);
+//     }
+//     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+//         vector<vector<int>>ans;
+//         vector<int>curr;
+
+//         solve(0,candidates.size(),target,candidates,curr,ans);
+        
+//     }
+// };
 class Solution {
 public:
-    // Helper function to find combinations
-    void solve(int n, vector<int>& candidates, int target, int i, int sum, vector<vector<int>>& ans, vector<int>& temp) {
-        if (sum == target) {
-            ans.push_back(temp);  // If target is reached, add the current combination
+
+    void solve(int idx,
+               vector<int>& candidates,
+               int target,
+               vector<int>& curr,
+               vector<vector<int>>& ans)
+    {
+        if(target == 0)
+        {
+            ans.push_back(curr);
             return;
         }
-        if (i >= n || sum > target) {
-            return;  // If index exceeds size or sum exceeds target, stop
-        }
 
-        // Include the current element and proceed
-        if (sum + candidates[i] <= target) {
-            temp.push_back(candidates[i]);
-            solve(n, candidates, target, i + 1, sum + candidates[i], ans, temp); 
-            temp.pop_back();  // Backtrack
-        }
+        for(int i=idx;i<candidates.size();i++)
+        {
+            if(i>idx && candidates[i]==candidates[i-1])
+                continue;
 
-        // Skip the current element and move to the next unique element
-        while (i + 1 < n && candidates[i] == candidates[i + 1]) {
-            i++;
+            if(candidates[i] > target)
+                break;
+
+            curr.push_back(candidates[i]);
+
+            solve(i+1,
+                  candidates,
+                  target-candidates[i],
+                  curr,
+                  ans);
+
+            curr.pop_back();
         }
-        solve(n, candidates, target, i + 1, sum, ans, temp);
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());  // Sort to handle duplicates
+    vector<vector<int>> combinationSum2(vector<int>& candidates,
+                                        int target)
+    {
+        sort(candidates.begin(), candidates.end());
+
         vector<vector<int>> ans;
-        vector<int> temp;
-        solve(candidates.size(), candidates, target, 0, 0, ans, temp);
+        vector<int> curr;
+
+        solve(0,candidates,target,curr,ans);
+
         return ans;
     }
 };
