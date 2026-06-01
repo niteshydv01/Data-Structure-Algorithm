@@ -1,32 +1,45 @@
 class Solution {
 public:
-    vector < vector < string >> partition(string s) {
-      vector < vector < string > > res;
-      vector < string > path;
-      partitionHelper(0, s, path, res);
-      return res;
+    
+    bool isPalindrome(string &s, int left, int right) {
+        while (left < right) {
+            if (s[left] != s[right])
+                return false;
+            left++;
+            right--;
+        }
+        return true;
     }
 
-  void partitionHelper(int index, string s, vector < string > & path,
-    vector < vector < string > > & res) {
-    if (index == s.size()) {
-      res.push_back(path);
-      return;
-    }
-    for (int i = index; i < s.size(); ++i) {
-      if (isPalindrome(s, index, i)) {
-        path.push_back(s.substr(index, i - index + 1));
-        partitionHelper(i + 1, s, path, res);
-        path.pop_back();
-      }
-    }
-  }
+    void solve(int start, string &s,
+               vector<string> &curr,
+               vector<vector<string>> &ans) {
 
-  bool isPalindrome(string s, int start, int end) {
-    while (start <= end) {
-      if (s[start++] != s[end--])
-        return false;
+        if (start == s.size()) {
+            ans.push_back(curr);
+            return;
+        }
+
+        for (int end = start; end < s.size(); end++) {
+
+            if (isPalindrome(s, start, end)) {
+
+                curr.push_back(s.substr(start, end - start + 1));
+
+                solve(end + 1, s, curr, ans);
+
+                curr.pop_back();
+            }
+        }
     }
-    return true;
-  }
+
+    vector<vector<string>> partition(string s) {
+
+        vector<vector<string>> ans;
+        vector<string> curr;
+
+        solve(0, s, curr, ans);
+
+        return ans;
+    }
 };
