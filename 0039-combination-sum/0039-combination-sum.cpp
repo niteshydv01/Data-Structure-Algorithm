@@ -1,31 +1,39 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void solve(int n, vector<int>& candidates, int target, int i, int sum, vector<vector<int>>& ans, vector<int>& temp) {
-        if (i >= n) {
+    void solve(int i, int n, int tar,
+               vector<int>& curr,
+               vector<vector<int>>& ans,
+               vector<int>& candidates) {
+
+        if (tar == 0) {
+            ans.push_back(curr);
             return;
         }
-        if (sum == target) {
-            ans.push_back(temp);
+
+        if (i >= n || tar < 0) {
             return;
         }
-        // Skip the current element
-        solve(n, candidates, target, i + 1, sum, ans, temp);
-        // Include the current element and proceed
-        if (sum + candidates[i] <= target) {
-            temp.push_back(candidates[i]);
-            solve(n, candidates, target, i, sum + candidates[i], ans, temp); // Notice the i (not i + 1) for reusing the same element
-            temp.pop_back(); // Backtrack
-        }
+
+       
+        curr.push_back(candidates[i]);
+        solve(i, n, tar - candidates[i],
+              curr, ans, candidates);
+        curr.pop_back();
+
+       
+        solve(i + 1, n, tar,
+              curr, ans, candidates);
     }
-    
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        int n = candidates.size();
+
+    vector<vector<int>> combinationSum(vector<int>& candidates,
+                                       int target) {
+
         vector<vector<int>> ans;
-        vector<int> temp;
-        solve(n, candidates, target, 0, 0, ans, temp);
+        vector<int> curr;
+
+        solve(0, candidates.size(),
+              target, curr, ans, candidates);
+
         return ans;
     }
 };
