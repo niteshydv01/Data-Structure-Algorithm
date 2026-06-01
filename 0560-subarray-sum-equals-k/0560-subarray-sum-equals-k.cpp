@@ -1,24 +1,25 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> prefixSumFreq;
-        int count = 0, prefixSum = 0;
+       unordered_map<int,int> x;
 
-        // Initialize prefix sum frequency map
-        prefixSumFreq[0] = 1;
+        x[0] = 1;
 
-        for (int num : nums) {
-            prefixSum += num;
+        int ans = 0;
+        int prefixsum = 0;
 
-            // Check if there is a subarray sum that equals `k`
-            if (prefixSumFreq.find(prefixSum - k) != prefixSumFreq.end()) {
-                count += prefixSumFreq[prefixSum - k];
+        for(int i = 0; i < nums.size(); i++) {
+
+            prefixsum += nums[i];
+
+            if(x.find(prefixsum - k) != x.end()) {
+                ans += x[prefixsum - k];
             }
 
-            // Store the current prefix sum frequency
-            prefixSumFreq[prefixSum]++;
+            x[prefixsum]++;
         }
 
-        return count;
+        return ans;
+        
     }
 };
