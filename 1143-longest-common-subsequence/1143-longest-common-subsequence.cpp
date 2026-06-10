@@ -2,7 +2,7 @@ class Solution {
 public:
     int solve(int i1, int i2, int n1, int n2, string& t1, string& t2, vector<vector<int>>& dp) {
         // Base case: If either string is exhausted
-        if (i1 == n1 || i2 == n2) {
+        if (i1 >= n1 || i2 >=n2) {
             return 0;
         }
 
