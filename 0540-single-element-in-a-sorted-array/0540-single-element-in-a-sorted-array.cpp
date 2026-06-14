@@ -37,22 +37,25 @@ public:
         while (s < e) {
             int mid = s + (e - s) / 2;
             
-            // Ensure we always compare mid with its pair
-            if (mid % 2 == 1) {
-                mid--; // Make mid even, ensuring it's the start of a pair
-            }
             
-            // Check if this pair is broken
+            if (mid % 2 == 1) {
+                mid--; 
+            }
+            // if(nums[mid]!=nums[mid+1]){
+            //     return nums[mid];
+            // }
+            
+            
             if (nums[mid] == nums[mid + 1]) {
-                // If pair is valid, the single element must be in the right half
+                
                 s = mid + 2;
             } else {
-                // If pair is invalid, the single element must be in the left half
+                
                 e = mid;
             }
         }
         
-        // At the end of the loop, s == e, pointing to the single element
-        return nums[s];
+      
+        return nums[e];
     }
 };
