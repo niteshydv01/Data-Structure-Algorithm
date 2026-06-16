@@ -21,11 +21,10 @@ public:
             return false;
         }
         // Check if values are equal and recursively check left and right subtrees
-        if (p->val == q->val) {
-            return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
-        }
+         return (p->val == q->val) && isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+        
         // Values are not equal, they are not identical
-        return false;
+       // return false;
         
     }
 };
