@@ -166,6 +166,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -282,6 +283,7 @@
 | [1250-longest-common-subsequence](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -578,6 +580,7 @@
 | [0658-find-k-closest-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0876-hand-of-straights) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
