@@ -153,6 +153,7 @@
 | [0890-lemonade-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0890-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -205,6 +206,7 @@
 | [0820-find-eventual-safe-states](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -226,6 +228,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -321,6 +324,7 @@
 | [0820-find-eventual-safe-states](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -918,4 +922,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
