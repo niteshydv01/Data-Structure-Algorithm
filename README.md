@@ -193,6 +193,7 @@
 | [0133-clone-graph](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0542-01-matrix) |
@@ -309,6 +310,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -350,6 +352,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -927,4 +930,8 @@
 | [0130-surrounded-regions](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
