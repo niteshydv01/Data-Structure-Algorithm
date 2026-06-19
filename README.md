@@ -173,6 +173,7 @@
 | [1705-count-unhappy-friends](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1705-count-unhappy-friends) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2047-find-a-peak-element-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -438,6 +439,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -507,6 +509,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1753-path-with-minimum-effort) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
@@ -586,6 +589,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2479-meeting-rooms-iii) |
 | [2664-maximize-greatness-of-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/2664-maximize-greatness-of-an-array) |
 ## Divide and Conquer
@@ -600,6 +604,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -826,6 +831,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
