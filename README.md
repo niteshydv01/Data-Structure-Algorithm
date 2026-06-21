@@ -629,6 +629,7 @@
 | [0062-unique-paths](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/niteshydv01/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
