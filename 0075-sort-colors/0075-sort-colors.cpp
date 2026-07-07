@@ -1,33 +1,24 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        vector<int> zero;
-        vector<int> one;
-        vector<int> two;
-        vector<int> combined;
-        for (int value : nums) {
-            if (value == 0) {
-                zero.push_back(value);
-            } else if (value == 1) {
-                one.push_back(value);
-            } else {
-                two.push_back(value);
+        int low = 0;
+        int mid = 0;
+        int high = nums.size() - 1;
+
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                swap(nums[low], nums[mid]);
+                low++;
+               mid++;
+            }
+            else if (nums[mid] == 1) {
+                mid++;
+            }
+            else { // nums[mid] == 2
+                swap(nums[mid], nums[high]);
+                high--;
             }
         }
-        for(int value:zero){
-            combined.push_back(value);
-        }
-        for(int value:one){
-            combined.push_back(value);
-        }
-        for(int value:two){
-            combined.push_back(value);
-        }
-
-
-
-       
-        nums=combined;
         
     }
 };
